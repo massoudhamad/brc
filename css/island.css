@@ -1,0 +1,25 @@
+body{
+
+    background: #eee;
+}
+
+ #applicant{
+      background: #333ab7;
+      text-align: center;
+      color: whitesmoke;
+      padding: 30px;
+      
+ }
+#container{
+ border: solid gray 1px;
+ width: 178px;
+ border-radius: 5px;
+ margin: 100px auto;
+ background: white;
+ padding: 50px;
+}
+#btn{
+    color: #fff;
+    background: #333ab7;
+    margin-left: 690%;
+}
